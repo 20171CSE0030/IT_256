@@ -1,0 +1,75 @@
+body
+	{
+		background-image:url("/home/6CSE1/Desktop/pattern.jpg");
+		background-repeat:repeat-x;
+		background-attachment:scroll;
+	}
+	h1{
+		color:white;
+		margin-left:40px;
+	  }
+	p{
+		color:blue;
+		font-family:georgia,garamond,serif;
+		font-style:italic;
+		font-size:large;
+	}
+	P.new{
+		font-weight:bolder;
+		direction:rtl;
+		letter-spacing:5px;
+		text-align:center;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
